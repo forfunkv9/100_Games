@@ -1,0 +1,21 @@
+* {
+	font-family: mono;
+}
+body {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+#btn-div {
+	display: flex;
+	flex-direction: column;
+}
+
+button {
+    /* width: 20vw; */
+    /* height: 20vw; */
+    font-size: 30px;
+	margin: 10px 0 0; 
+	padding: 5px 10px;
+}
